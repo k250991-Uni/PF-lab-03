@@ -5,7 +5,6 @@
 ***Github is web and cloud based platform***
 
 ### Main concepts
-
  * Branch
  * Pull request
  * merge
@@ -16,8 +15,11 @@
    2.  Git add
    3.  Git commit
    4.  push
-   5.  pull\
+   5.  pull
+   
 ~~By mistake~~
+
 - [X] complete
 - [ ] incomplete
-- [X] 
+- [X] Done\
+![Cat image](https://www.thedarkmagazine.com/wp-content/uploads/2019/04/Evil-Cat.jpg)
